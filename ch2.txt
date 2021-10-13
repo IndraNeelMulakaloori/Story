@@ -1,0 +1,4 @@
+Dealing with Imposter Syndrome, you aren't alone fellow coder..
+
+Speaking of audacity, Have you ever send a code eneumerating myriad bugs into production server?
+Welcome to 4th OCT 2021 FB servers...
